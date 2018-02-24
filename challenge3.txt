@@ -1,3 +1,5 @@
 this is challenge 3
-Swan is creating this file 
-Heva is my collaborater
+Swan is creating this file, but Heva needs to make changes 
+We are working together and
+Heva is my collaborator
+
